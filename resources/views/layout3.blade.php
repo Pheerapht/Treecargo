@@ -132,7 +132,7 @@
                             <span id="cartQty">0</span>
                         </a>
                     </li>
-                    {{-- <li><a class="start_btn" href="{{ route('select-product-type') }}">{{__('user.Start Selling')}}</a></li> --}}
+                    <li><a class="start_btn" href="{{ route('select-product-type') }}">{{__('user.Start Selling')}}</a></li>
                     <li><a class="support_btn" href="{{ route('dashboard') }}">{{__('user.Dashboard')}}</a></li>
                 </ul>
             </div>

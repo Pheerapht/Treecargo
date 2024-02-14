@@ -249,9 +249,9 @@
                             <img src="{{ asset('frontend/images/menu_cart_icom.png') }}" alt="user" class="img-fluid w-100">
                             <span id="cartQty">0</span>
                         </a>
-                    {{-- </li>
+                    </li>
                     <li><a class="start_btn" href="{{ route('select-product-type') }}">{{__('user.Start Selling')}}</a></li>
-                </ul> --}}
+                </ul>
             </div>
         </div>
     </nav>
