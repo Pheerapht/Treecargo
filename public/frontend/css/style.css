@@ -82,7 +82,7 @@ button {
     --colorWhite: #ffffff;
     --ratingColor: #FFC107;
     --colorYellow: #F2C94C;
-    --gradientColor: linear-gradient(127deg, #8D49FE 0%, #013CB0 100.67%);
+    --gradientColor: linear-gradient(127deg, #355e3b 0%, #228b22 100.67%);
     --boxShadow: 0px 6px 60px 5px rgba(0, 0, 0, 0.08);
 }
 
